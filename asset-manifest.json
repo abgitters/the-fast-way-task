@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/the-fast-way-task/static/css/main.964fdded.css",
+    "main.js": "/the-fast-way-task/static/js/main.6271eb95.js",
+    "static/js/787.6fd6b4fd.chunk.js": "/the-fast-way-task/static/js/787.6fd6b4fd.chunk.js",
+    "index.html": "/the-fast-way-task/index.html",
+    "main.964fdded.css.map": "/the-fast-way-task/static/css/main.964fdded.css.map",
+    "main.6271eb95.js.map": "/the-fast-way-task/static/js/main.6271eb95.js.map",
+    "787.6fd6b4fd.chunk.js.map": "/the-fast-way-task/static/js/787.6fd6b4fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.6271eb95.js"
+  ]
+}
